@@ -26,6 +26,9 @@ Exemplo:
 Observação:
 	Deve ser criado com o usuário SYS
 	
+Compatibilidade:
+	Oracle 9i, 10g, 11g, 12c, 19c
+	
 */
 CREATE OR REPLACE TRIGGER SYS.AUTOGRANT
 AFTER CREATE OR DROP
